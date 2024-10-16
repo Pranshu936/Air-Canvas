@@ -37,3 +37,13 @@ pip install opencv-python mediapipe numpy
 - y : Change pen color to Yellow.
 - s : Save the current canvas as an image (air_canvas_output.png).
 - ESC : Exit the application.
+
+## Video and Pics
+
+
+
+
+
+https://github.com/user-attachments/assets/df3c7821-e0ae-496c-86f3-2185abf491fe
+
+![Screenshot 2024-10-16 224452](https://github.com/user-attachments/assets/486eaeaf-37ae-4c2b-967f-78df4f3bbec8)
